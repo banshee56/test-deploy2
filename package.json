@@ -19,9 +19,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "typescript": "^4.7.4"
-  },
   "bugs": {
     "url": "https://github.com/banshee56/test-deploy2/issues"
   },
